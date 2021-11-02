@@ -1,32 +1,40 @@
-## Welcome to GitHub Pages
+## Welcome to RichNusGeeks Creatives
 
-You can use the [editor on GitHub](https://github.com/richnusgeeks/richnusgeeks.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+[Musings from a Life Hacker: Goodbye Fear, Hello Zen!](https://medium.com/@ankur.floss/musings-from-a-life-hacker-goodbye-fear-hello-zen-ab1e11196376)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[Nativity in the Cloud](https://medium.com/@ankur.floss/nativity-in-the-cloud-f14d9b197306)
 
-### Markdown
+[It's a Virtual Machine... It's a Container...](https://www.linkedin.com/pulse/its-virtual-machine-container-ankur-kumar?trk=portfolio_article-card_title)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[L(X)D Doping for a Minimalist](https://www.linkedin.com/pulse/lxd-doping-minimalist-ankur-kumar?trk=portfolio_article-card_title)
 
-```markdown
-Syntax highlighted code block
+[A Tale of Docker, macOS and [xv]hyve](https://www.linkedin.com/pulse/cloud-computing-art-instant-salad-making-ankur-kumar?trk=portfolio_article-card_title)
 
-# Header 1
-## Header 2
-### Header 3
+[Cloud Computing and the Art of instant Salad making](https://www.linkedin.com/pulse/cloud-computing-art-instant-salad-making-ankur-kumar?trk=portfolio_article-card_title
 
-- Bulleted
-- List
+[Taming the cloud: Provisioning with Terraform](http://opensourceforu.com/2017/10/taming-cloud-provisioning-terraform/)
 
-1. Numbered
-2. List
+[Remote Execution and Job Orchestration](https://richnusgeeks.wordpress.com/2015/07/03/remote-execution-and-job-orchestration/)
 
-**Bold** and _Italic_ and `Code` text
+[Python and Instant GUIs](https://richnusgeeks.wordpress.com/2012/05/15/python-and-instant-guis/)
 
-[Link](url) and ![Image](src)
-```
+Spicing up the Console for Fun and Profit, Part 2
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Spicing up the Console for Fun and Profit, Part 1
+
+Turbo Charge Python Apps with Speed, Part 2
+
+Turbo Charge Python Apps with Speed, Part 1
+
+[Extending Python via Shared Libraries](http://www.opensourceforu.com/author/ankur-kumar-sharma/)
+
+[C and C++ Interpreters](https://richnusgeeks.files.wordpress.com/2016/02/interpretation_lpm.pdf)
+
+[Vala and Genie](https://richnusgeeks.files.wordpress.com/2016/02/inthebottle_lpm1.pdf)
+
+[Add GUI elements to your scripts](https://richnusgeeks.files.wordpress.com/2016/02/dialog_lpm.pdf)
+
+[GeeksZine](https://richnusgeeks.wordpress.com/category/geekszine/)
 
 ### Jekyll Themes
 
