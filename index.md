@@ -18,15 +18,15 @@
 
 [Python and Instant GUIs](https://richnusgeeks.wordpress.com/2012/05/15/python-and-instant-guis/)
 
-Spicing up the Console for Fun and Profit, Part 2
+[Spicing up the Console for Fun and Profit, Part 2](https://www.opensourceforu.com/2011/11/spicing-up-console-for-fun-profit-2/)
 
-Spicing up the Console for Fun and Profit, Part 1
+[Spicing up the Console for Fun and Profit, Part 1](https://www.opensourceforu.com/2011/08/spicing-up-console-for-fun-profit-1/)
 
-Turbo Charge Python Apps with Speed, Part 2
+[Turbo Charge Python Apps with Speed, Part 2](https://www.opensourceforu.com/2010/12/turbo-charge-python-apps-with-speed-part-2/)
 
-Turbo Charge Python Apps with Speed, Part 1
+[Turbo Charge Python Apps with Speed, Part 1](https://www.opensourceforu.com/2010/07/turbo-charge-python-apps-with-speed-part-1/)
 
-[Extending Python via Shared Libraries](http://www.opensourceforu.com/author/ankur-kumar-sharma/)
+[Extending Python via Shared Libraries](https://www.opensourceforu.com/2010/05/extending-python-via-shared-libraries/)
 
 [C and C++ Interpreters](https://richnusgeeks.files.wordpress.com/2016/02/interpretation_lpm.pdf)
 
@@ -36,10 +36,7 @@ Turbo Charge Python Apps with Speed, Part 1
 
 [GeeksZine](https://richnusgeeks.wordpress.com/category/geekszine/)
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/richnusgeeks/richnusgeeks.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+richnusgeeks at gmail dot com
