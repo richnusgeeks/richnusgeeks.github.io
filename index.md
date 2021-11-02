@@ -10,7 +10,7 @@
 
 [A Tale of Docker, macOS and [xv]hyve](https://www.linkedin.com/pulse/cloud-computing-art-instant-salad-making-ankur-kumar?trk=portfolio_article-card_title)
 
-[Cloud Computing and the Art of instant Salad making](https://www.linkedin.com/pulse/cloud-computing-art-instant-salad-making-ankur-kumar?trk=portfolio_article-card_title
+[Cloud Computing and the Art of instant Salad making](https://www.linkedin.com/pulse/cloud-computing-art-instant-salad-making-ankur-kumar?trk=portfolio_article-card_title)
 
 [Taming the cloud: Provisioning with Terraform](http://opensourceforu.com/2017/10/taming-cloud-provisioning-terraform/)
 
