@@ -14,9 +14,9 @@
 
 [Taming the cloud: Provisioning with Terraform](http://opensourceforu.com/2017/10/taming-cloud-provisioning-terraform/)
 
-[Remote Execution and Job Orchestration](https://richnusgeeks.wordpress.com/2015/07/03/remote-execution-and-job-orchestration/)
+[Remote Execution and Job Orchestration](https://richnusgeeks.files.wordpress.com/2015/07/remotexecution_printversion.pdf)
 
-[Python and Instant GUIs](https://richnusgeeks.wordpress.com/2012/05/15/python-and-instant-guis/)
+[Python and Instant GUIs](https://richnusgeeks.files.wordpress.com/2012/05/pythonandinstantgui.pdf)
 
 [Spicing up the Console for Fun and Profit, Part 2](https://www.opensourceforu.com/2011/11/spicing-up-console-for-fun-profit-2/)
 
