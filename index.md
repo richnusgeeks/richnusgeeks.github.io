@@ -43,7 +43,7 @@
 
 - Cloud Computing and Artificial Intelligence Tech Training, Team Building, Tech Consulting
 
-- Evangelism Popularization of  Free Open Source Software Technologies through Tech Publications
+- Evangelism and Popularization of Free Open Source Software Technologies through Tech Publications
 
 - Harnessing the power of Artificial Intelligence, Machine Learning and Quantum Computing to craft
   Innovative Free Open Source Software Solutions to address the modern Cloud Computing, Infrastructure
