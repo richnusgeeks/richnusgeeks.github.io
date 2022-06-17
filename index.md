@@ -1,5 +1,7 @@
 ## Welcome to RichNusGeeks
 
+[Goodbye cloud VMs, hello laptop VMs](https://www.admin-magazine.com/Archive/2022/69/Goodbye-cloud-VMs-hello-laptop-VMs)
+
 [Goodbye virtual machines, hello container machines](https://www.admin-magazine.com/Archive/2022/68/Goodbye-virtual-machines-hello-container-machines)
 
 [Musings from a Life Hacker: Goodbye Fear, Hello Zen!](https://medium.com/@ankur.floss/musings-from-a-life-hacker-goodbye-fear-hello-zen-ab1e11196376)
