@@ -1,5 +1,7 @@
 ## Welcome to RichNusGeeks
 
+[Presentation as Code](https://www.linux-magazine.com/Issues/2022/262/Present-Slide-Creator)
+
 [Goodbye cloud VMs, hello laptop VMs](https://www.admin-magazine.com/Archive/2022/69/Goodbye-cloud-VMs-hello-laptop-VMs)
 
 [Goodbye virtual machines, hello container machines](https://www.admin-magazine.com/Archive/2022/68/Goodbye-virtual-machines-hello-container-machines)
