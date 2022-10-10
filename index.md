@@ -1,10 +1,10 @@
 ## Welcome to RichNusGeeks Technologies Pvt Ltd
 
-### Published Technical Content
+### Published Technical Content :
 
 - [Goodbye virtual machines, hello microVMs](https://www.admin-magazine.com/Archive/2022/71/Goodbye-virtual-machines-hello-microVMs)
 
-- [Masquerade](https://www.linux-magazine.com/Issues/2022/263/OliveTin-and-Script-Server)
+- [My scripts, my Web UIs](https://www.linux-magazine.com/Issues/2022/263/OliveTin-and-Script-Server)
 
 - [Presentation as Code](https://www.linux-magazine.com/Issues/2022/262/Present-Slide-Creator)
 
@@ -49,7 +49,7 @@
 - [GeeksZine](https://richnusgeeks.wordpress.com/category/geekszine/)
 
 
-### About RichNusGeeks Tecnologies Pvt Ltd
+### About RichNusGeeks Tecnologies Pvt Ltd :
 
 - Cloud Computing and Artificial Intelligence Tech Training, Team Building, Tech Consulting
 
