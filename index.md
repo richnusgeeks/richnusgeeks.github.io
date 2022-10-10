@@ -60,5 +60,7 @@
 ### Contact or Support
 
 richnusgeeks at gmail dot com
+
 linkedin dot com slash in slash richnusgeeks
+
 twitter dot com slash richnusgeeks
