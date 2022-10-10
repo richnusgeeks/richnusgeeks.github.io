@@ -1,4 +1,4 @@
-## Welcome to RichNusGeeks
+## Welcome to RichNusGeeks Technologies Pvt Ltd
 
 [Goodbye virtual machines, hello microVMs](https://www.admin-magazine.com/Archive/2022/71/Goodbye-virtual-machines-hello-microVMs)
 
@@ -47,7 +47,7 @@
 [GeeksZine](https://richnusgeeks.wordpress.com/category/geekszine/)
 
 
-### About RichNusGeeks
+### About RichNusGeeks Tecnologies Pvt Ltd
 
 - Cloud Computing and Artificial Intelligence Tech Training, Team Building, Tech Consulting
 
@@ -57,6 +57,8 @@
   Innovative Free Open Source Software Solutions to address the modern Cloud Computing, Infrastructure
   and Platform Engineering challenges and problems
 
-### Support or Contact
+### Contact or Support
 
 richnusgeeks at gmail dot com
+linkedin dot com slash in slash richnusgeeks
+twitter dot com slash richnusgeeks
