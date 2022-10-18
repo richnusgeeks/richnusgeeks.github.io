@@ -61,7 +61,7 @@
 
 ### Contact or Support :
 
-richnusgeeks at gmail dot com
+info at richnusgeeks dot com
 
 linkedin dot com slash in slash richnusgeeks
 
