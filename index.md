@@ -2,6 +2,8 @@
 
 ### Published Technical Content :
 
+- [What's your status (page)?](https://www.admin-magazine.com/Archive/2023/78/What-s-your-status-page)
+
 - [Old but Still Gold](https://www.admin-magazine.com/Archive/2023/77/A-watchdog-for-every-modern-ix-server)
 
 - [Acceptance as Code](https://www.admin-magazine.com/Archive/2023/73/Verifying-your-configuration)
