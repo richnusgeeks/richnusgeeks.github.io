@@ -57,11 +57,11 @@
 
 ### About RichNusGeeks Tecnologies Pvt Ltd :
 
-- Cloud Computing and Artificial Intelligence Tech Training, Team Building, Tech Consulting
+- Cloud Computing, IoT and Artificial Intelligence Tech Trainings, Team Building, Tech Consulting
 
 - Evangelism and Popularization of Free Open Source Software Technologies through Tech Publications
 
-- Harnessing the power of Artificial Intelligence, Machine Learning and Quantum Computing to craft
+- Harnessing the power of Cloud Computing, IoT, Artificial Intelligence, Machine Learning and Quantum Computing to craft
   Innovative Free Open Source Software Solutions to address the modern Cloud Computing, Infrastructure
   and Platform Engineering challenges and problems
 
