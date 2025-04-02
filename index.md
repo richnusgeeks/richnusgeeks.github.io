@@ -8,7 +8,7 @@ looking forward to up-skill at International Lavels for multi-fold growth and am
 soft skills, in the cutting edge fields of **Cloud Computing, IoT and AI**.
 
 - **CODII Tantra Junior Workshops** are designed for <ins>Children starting in Grade 6th onwards</ins> to start early on the path of
-gradully becoming multi-skilled innovators and leaders with well rounded technical as well as soft skills.
+gradually becoming multi-skilled innovators and leaders with well rounded technical as well as soft skills.
 
 
 ### Published Technical Content :
