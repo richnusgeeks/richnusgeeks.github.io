@@ -1,5 +1,15 @@
 ## Welcome to RichNusGeeks Technologies Pvt Ltd
 
+### Workshops Offered
+
+**CODII Tantra Workshops** are designed for <ins>Graduated/Final/Pre-Final Students</ins> and <ins>Any Budding Professional</ins>
+looking forward to up-skill at International Lavels for multi-fold growth and amazing career opprtunities, through both hard and
+soft skills, in the cutting edge fields of **Cloud Computing, IoT and AI**.
+
+**CODII Tantra Junior Workshops** are designed for <ins>Children starting in Grade 6th onwards</ins> to start early on the path of
+gradully becoming multi-skilled innovators and leaders with well rounded technical as well as soft skills.
+
+
 ### Published Technical Content :
 
 - [Raspberry PI Pico: The Wonder Board for IoT Applications](https://www.opensourceforu.com/2025/02/raspberry-pi-pico-the-wonder-board-for-iot-applications/)
@@ -60,6 +70,8 @@
 
 
 ### About RichNusGeeks Tecnologies Pvt Ltd :
+
+- Group of Internationally Seasoned Professionals from Business and IT Industry
 
 - Cloud Computing, IoT and Artificial Intelligence Tech Trainings, Team Building, Tech Consulting
 
