@@ -1,12 +1,13 @@
 ## Welcome to RichNusGeeks Technologies Pvt Ltd
 
-### Workshops Offered
 
-**CODII Tantra Workshops** are designed for <ins>Graduated/Final/Pre-Final Students</ins> and <ins>Any Budding Professional</ins>
+### Workshops Offered :
+
+- **CODII Tantra Workshops** are designed for <ins>Graduated/Final/Pre-Final Students</ins> and <ins>Any Budding Professional</ins>
 looking forward to up-skill at International Lavels for multi-fold growth and amazing career opprtunities, through both hard and
 soft skills, in the cutting edge fields of **Cloud Computing, IoT and AI**.
 
-**CODII Tantra Junior Workshops** are designed for <ins>Children starting in Grade 6th onwards</ins> to start early on the path of
+- **CODII Tantra Junior Workshops** are designed for <ins>Children starting in Grade 6th onwards</ins> to start early on the path of
 gradully becoming multi-skilled innovators and leaders with well rounded technical as well as soft skills.
 
 
