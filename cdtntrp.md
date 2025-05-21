@@ -1,4 +1,6 @@
-<kbd>![](images/cdtntrp/codiitantrap1.png)</kbd>
+<kbd>
+  <img src="images/cdtntrp/codiitantrap1.png">
+</kbd>
 
 ![](images/cdtntrp/codiitantrap2.png)
 
